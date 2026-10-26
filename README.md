@@ -16,9 +16,10 @@ A responsive booking experience for a fictional independent studio. This portfol
 <img width="1845" height="942" alt="image" src="https://github.com/user-attachments/assets/7bcc6ab5-293c-45c9-a73e-13a67c3f5b0c" />
 <img width="1872" height="937" alt="image" src="https://github.com/user-attachments/assets/18895565-2012-4179-b654-686672f97e88" />
 
-## Technology
-
-React, TypeScript, and Vite · ASP.NET Core Minimal API on .NET 10 · in-memory sample data
+## Technology Stacks
+Front End - React, TypeScript and Vite
+Backend  - ASP.NET Core Minimal API on .NET 10
+Storage - In-memory sample data
 
 ## Run locally on Windows
 
