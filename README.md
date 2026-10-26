@@ -19,7 +19,8 @@ A responsive booking experience for a fictional independent studio. This portfol
 ## Technology Stacks
 Front End - React, TypeScript and Vite
 Backend  - ASP.NET Core Minimal API on .NET 10
-Storage - In-memory sample data
+Programming Language - C#
+Storage - In-memory sample data with Potential scope to integrate with Relational or Non relational databases
 
 ## Run locally on Windows
 
